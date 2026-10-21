@@ -1,5 +1,3 @@
-# Life-Expectancy-
-
 # Life Expectancy Analysis & Prediction
 
 An end-to-end data science project that explores what drives life expectancy across 183 countries (2000-2015) and builds a machine learning model to predict it, using WHO and United Nations data.
