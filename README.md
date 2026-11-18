@@ -152,10 +152,6 @@ model = joblib.load("life_expectancy_model.joblib")
 - World Health Organization, Global Health Observatory (GHO) data repository
 - United Nations (economic data)
 
-## License
-
-[Choose a license, e.g. MIT] - see `LICENSE` for details.
-
 ## Author
 
-[Your Name] - [LinkedIn / email / portfolio link]
+Abayomi Abiodun - https://www.linkedin.com/in/abayomi-abiodun/ 
